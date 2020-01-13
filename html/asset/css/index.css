@@ -1,0 +1,20 @@
+body>div {
+    display: block;
+    width: 1000px;
+    height: 800px;
+}
+
+.elevator-consoles {
+    background-color: lightyellow;
+    height: 100%;
+}
+
+.elevator-canvas {
+    background-color: #5bc0de;
+    height: 100%;
+}
+
+.elevator-setting {
+    background-color: lightyellow;
+    height: 100%;
+}
